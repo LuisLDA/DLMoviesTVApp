@@ -3,7 +3,7 @@
 
 DLMoviesTV surge de la necesidad de dar una mejor experiencia a los usuario de nuestra aplicación en TV al igual que en nuestra app móvil.
 
-![Lanzamiento de DLMoviesTV](https://scontent.fuio1-1.fna.fbcdn.net/v/t39.30808-6/320107688_864965581618610_3565217859947764579_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=IW0JjCpB0VoAX8B51Vb&_nc_ht=scontent.fuio1-1.fna&oh=00_AfDIhT9q6KBB7-3G5Hp0qfF-NtIrBPySDFdolbs9e07qYQ&oe=63E33878)
+![Lanzamiento de DLMoviesTV](https://github.com/LuisLDA/DLMoviesTVApp/blob/main/Imagen.jpg?raw=true)
 
 # Redes Sociales
 
